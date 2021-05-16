@@ -1,0 +1,19 @@
+{
+  "name": "cypress_auto_planit",
+  "version": "1.0.0",
+  "description": "cypress automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress": "cypress open"
+  },
+  "keywords": [
+    "cypress",
+    "auto"
+  ],
+  "author": "suprith",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^7.3.0"
+  }
+}
